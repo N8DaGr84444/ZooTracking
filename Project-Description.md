@@ -1,7 +1,7 @@
 # Reliable Mechanics and Electronics in Saltwater for Animal BehaviorMonitoring 
 ## Team Name - Zoo Crew
 ## Team Members:
-- Nathaniel (Nate) Alter - alternl@mail.uc.edu
+- Nathaniel (Nate) Alter (CS) - alternl@mail.uc.edu
 ## Description:
 In collaboration with Dr. Kalafut at the zoo
 
